@@ -1,0 +1,17 @@
+# Ignorowanie folderu .idea (ustawienia PyCharm)
+.idea/
+
+# Ignorowanie środowiska wirtualnego Python
+.venv/
+env/
+.env/
+
+# Ignorowanie plików cache Pythona
+__pycache__/
+*.py[cod]
+
+# Ignorowanie plików systemowych
+.DS_Store
+Thumbs.db
+*.log
+
